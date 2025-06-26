@@ -1,0 +1,46 @@
+body{
+    background-image: linear-gradient(black, rgb(34, 26, 26), black);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+#seriesTitle{
+    font-family: rubik iso;
+    color: rgb(189, 92, 92);
+    font-size: 200px;
+    font-weight: 1;
+    -webkit-text-stroke: 1px rgb(80, 97, 48);
+    text-align: center;
+}
+#availableEpi{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 45px;
+    color: white;
+}
+#Container1{
+    display: flex;
+    justify-content: center;
+    column-gap: 100px;
+}
+#Container2{
+    text-align: center;
+}
+h2{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 45px;
+    color: white;
+}
+#Episodes{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 45px;
+    color: white;
+}
+h3{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    color: white;
+}
+p{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+    color: white;
+}
